@@ -1,4 +1,4 @@
-# Firebase-Uİ-Authentication
+# Firebase-UI-Authentication
 
 Official Documentation
 
