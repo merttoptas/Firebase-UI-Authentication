@@ -77,7 +77,6 @@ public class Main2Activity extends AppCompatActivity {
         String currentUserName = user.getDisplayName();
         Uri userImg=user.getPhotoUrl();
 
-
         Glide.with(getApplicationContext()).load(userImg.toString()).centerCrop().circleCrop().into(img_profile);
         tvName.setText(currentUserName);
         tvMail.setText(currentUserMail);

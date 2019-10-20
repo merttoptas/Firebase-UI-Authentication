@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleSignSample</string>
+    <string name="facebook_application_id">1362602010582911</string>
+    <string name="fb_login_protocol_scheme">fb1362602010582911</string>
+    <style name="default_web_client_id">1105410651073-47it7brhaeubkqohu9csnkacuhoptlqb.apps.googleusercontent.com</style>
+    <string name="title_activity_maps">Map</string>
+</resources>
